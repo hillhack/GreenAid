@@ -1,0 +1,15 @@
+# Large data & model files
+data/
+*.pt
+*.pth
+
+# Generated submission files
+submission*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
