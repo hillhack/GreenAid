@@ -1,6 +1,6 @@
 # 🌾 GreenAid — Multimodal Crop Disease Diagnosis
 
-**Kaggle Competition | Wheat Disease Classification**  
+**Kaggle Competition | Wheat Disease Classification**  https://www.kaggle.com/competitions/beyond-visible-spectrum-ai-for-agriculture-2026
 Classify wheat patches into **Health / Rust / Other** using three sensor modalities: RGB imagery, 5-band Multispectral (MS), and 125-band Hyperspectral (HS).
 
 ---
